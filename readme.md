@@ -19,7 +19,7 @@
 #### Dans cet exemple, nous utilisons servlet en tant que contrôleur, 
 #### jsp en tant que composant de vue, classe Java Bean en tant que modèle.
 
-#### Créations de 5 pages:
+#### Créations de 5 pages :
 
 #### index.jsp une page qui reçoit des entrées de l'utilisateur.
 #### ControllerServlet.java un servlet qui agit en tant que contrôleur.
