@@ -13,7 +13,7 @@
 #### View représente la présentation, 
 #### c'est-à-dire l'interface utilisateur (User Interface).
 
-![alt-text](https://github.com/Dolois/sql_installer/blob/master/Install%20MySQL%20Community%20Server.JPG)
+![alt-text](https://github.com/Dolois/MVCjspProject/blob/master/ressources/MVC.JPG)
 
 #### Exemple : MVC dans JSP
 #### Dans cet exemple, nous utilisons servlet en tant que contrôleur, 
