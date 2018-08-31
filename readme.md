@@ -27,4 +27,4 @@
 #### login-error.jsp (composant d'affichage).
 #### fichier web.xml pour le mappage du servlet.
 
-#### Réussir à ce logger
+#### Réussir à ce logger (message de réussite)
