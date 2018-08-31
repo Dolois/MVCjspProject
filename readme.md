@@ -1,4 +1,4 @@
-### MVC dans JSP
+### Le 30 Aout 2018 - Démo d'un MVC dans JSP
 
 #### MVC signifie Model View et Controller.
 #### C'est un modèle de conception qui sépare la logique métier, 
@@ -26,3 +26,5 @@
 #### login-success.jsp (composant d'affichage).
 #### login-error.jsp (composant d'affichage).
 #### fichier web.xml pour le mappage du servlet.
+
+#### Réussir à ce logger
